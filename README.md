@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @KawshikBarua
-- 👀 I’m interested in ... Web Development, Mobile Development
-- 🌱 I’m currently learning <b>.NET 6</b>
+- 👋 Hello there, I’m @KawshikBarua
+- 👀 Working on developing skills.
+- 🌱 Learning is the key..
+- Learning <b>React js</b>
 - 📫 How to reach me 
   <p>Facebook: https://www.facebook.com/kawshik.barua.8.98</p>
 <!---
